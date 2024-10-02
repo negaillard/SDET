@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a6efc45-905c-4ceb-b993-7ef0b85c7ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GasolineEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMaintainable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VehicleManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VehicleType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/ElectricEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/ElectricEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/GasolineEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/GasolineEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/IEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/IEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/IMaintainable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/IMaintainable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/VehicleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/VehicleManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection1/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/VehicleType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +75,35 @@
       <option name="project" value="LOCAL" />
       <updated>1727851416066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lection 1 task">
+      <created>1727862122465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727862122465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lection 1 task 2.0">
+      <created>1727862350185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727862350185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lection 1 task 3.0">
+      <created>1727862434115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727862434115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="lection 1 task" />
+    <MESSAGE value="lection 1 task 2.0" />
+    <MESSAGE value="lection 1 task 3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="lection 1 task 3.0" />
   </component>
 </project>

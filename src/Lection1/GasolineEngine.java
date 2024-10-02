@@ -1,3 +1,5 @@
+package Lection1;
+
 public class GasolineEngine implements IEngine, IMaintainable {
     private int cylinders;
     private int horsepower;

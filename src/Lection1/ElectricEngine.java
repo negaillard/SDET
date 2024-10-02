@@ -1,3 +1,5 @@
+package Lection1;
+
 public class ElectricEngine implements IEngine, IMaintainable{
     private int batteryCapacity;
     private int range;

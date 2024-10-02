@@ -1,3 +1,5 @@
+package Lection1;
+
 public class Main {
     public static void main(String[] args) {
         IEngine gasolineEngine = new GasolineEngine(4, 150);

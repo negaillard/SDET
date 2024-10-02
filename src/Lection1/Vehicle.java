@@ -1,3 +1,5 @@
+package Lection1;
+
 public abstract class Vehicle {
     private static int totalVehicles = 0;
     protected String brand;

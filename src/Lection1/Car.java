@@ -1,3 +1,5 @@
+package Lection1;
+
 public class Car extends Vehicle implements IMaintainable{
     private IEngine engine;
     private int doors;

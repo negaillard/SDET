@@ -1,3 +1,5 @@
+package Lection1;
+
 public class Truck extends Vehicle implements IMaintainable{
     private IEngine engine;
     private int cargoCapacity;
