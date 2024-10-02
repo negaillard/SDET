@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a6efc45-905c-4ceb-b993-7ef0b85c7ab3" name="Changes" comment="initial commit">
+    <list default="true" id="9a6efc45-905c-4ceb-b993-7ef0b85c7ab3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GasolineEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMaintainable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +27,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2mKQV824pHbOMSKti1nz5OFWQud" />
@@ -51,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726822849611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1727851416066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727851416066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
