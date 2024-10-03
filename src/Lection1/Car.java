@@ -1,6 +1,6 @@
 package Lection1;
 
-public class Car extends Vehicle implements IMaintainable{
+public class Car extends AbstractVehicle implements IMaintainable{
     private IEngine engine;
     private int doors;
 

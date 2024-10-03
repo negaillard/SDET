@@ -3,7 +3,7 @@ package Lection1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Garage <T extends Vehicle> {
+public class Garage <T extends AbstractVehicle> {
     private List<T> vehicles;
     public Garage(List<T> initialVehicles) {
         vehicles = new ArrayList<>(initialVehicles);

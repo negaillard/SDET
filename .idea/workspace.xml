@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9a6efc45-905c-4ceb-b993-7ef0b85c7ab3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/ElectricEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/ElectricEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Garage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/GasolineEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/GasolineEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/IEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/IEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/IMaintainable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/IMaintainable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/VehicleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/VehicleManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/VehicleType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727862434115</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lection 1 task 3.0">
+      <created>1727862535168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727862535168</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

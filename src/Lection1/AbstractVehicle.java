@@ -1,12 +1,12 @@
 package Lection1;
 
-public abstract class Vehicle {
+public abstract class AbstractVehicle {
     private static int totalVehicles = 0;
     protected String brand;
     protected String color;
     protected VehicleType type;
 
-    public Vehicle(String brand, String color, VehicleType type){
+    public AbstractVehicle(String brand, String color, VehicleType type){
         this.brand = brand;
         this.color = color;
         this.type = type;
