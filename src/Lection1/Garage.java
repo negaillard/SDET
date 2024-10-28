@@ -4,11 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Garage <T extends AbstractVehicle> {
+    private String garageName;
     private List<T> vehicles;
-    public Garage(List<T> initialVehicles) {
+    public Garage(List<T> initialVehicles,  String garageName) {
+        this.garageName = garageName;
         vehicles = new ArrayList<>(initialVehicles);
     }
     public Garage() {
+        this.garageName = "usual garage";
         vehicles = new ArrayList<>();
     }
 

@@ -10,7 +10,6 @@ public class Main {
 
         AbstractVehicle motorcycle = new Motorcycle("Yamaha", "Черный",VehicleType.MOTORCYCLE, gasolineEngine);
 
-        // Используем параметризованный класс Garage
         Garage<AbstractVehicle> garage = new Garage<>();
 
         garage.addVehicle(car);
@@ -19,7 +18,6 @@ public class Main {
 
         garage.displayAllVehicles();
 
-        // Поиск по бренду
         garage.findVehicleByBrand("Tesla");
         garage.findVehicleByBrand("BMW");
 

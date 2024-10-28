@@ -2,9 +2,11 @@ package Lection1;
 
 public class Motorcycle extends AbstractVehicle implements IMaintainable{
     private IEngine engine;
-    public Motorcycle(String brand, String color, VehicleType type, IEngine engine) {
+    private int year;
+    public Motorcycle(String brand, String color, VehicleType type, IEngine engine, int year) {
         super(brand, color, type);
         this.engine = engine;
+        this.year = year;
     }
 
     @Override
