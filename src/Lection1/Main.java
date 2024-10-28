@@ -8,7 +8,7 @@ public class Main {
         IEngine electricEngine = new ElectricEngine(75, 300);
         AbstractVehicle truck = new Truck("Tesla", "Синий",VehicleType.TRUCK, electricEngine, 1000);
 
-        AbstractVehicle motorcycle = new Motorcycle("Yamaha", "Черный",VehicleType.MOTORCYCLE, gasolineEngine);
+        AbstractVehicle motorcycle = new Motorcycle("Yamaha", "Черный",VehicleType.MOTORCYCLE, gasolineEngine, 1996);
 
         Garage<AbstractVehicle> garage = new Garage<>();
 

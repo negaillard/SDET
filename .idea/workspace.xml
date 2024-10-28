@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a6efc45-905c-4ceb-b993-7ef0b85c7ab3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Garage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lection1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection1/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection1/VehicleManager.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727862535168</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="правки lection1">
+      <created>1730122271022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730122271022</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +127,7 @@
     <MESSAGE value="lection 1 task" />
     <MESSAGE value="lection 1 task 2.0" />
     <MESSAGE value="lection 1 task 3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="lection 1 task 3.0" />
+    <MESSAGE value="правки lection1" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки lection1" />
   </component>
 </project>
