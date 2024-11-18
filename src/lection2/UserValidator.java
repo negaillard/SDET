@@ -5,7 +5,7 @@ import lection2.Exceptions.WrongPasswordException;
 
 public class UserValidator {
     private static boolean isValidlogin(String login){
-        return login != null && login.length() < 20;
+        return login != null && login.length() < 20 && login.matches("^[a-zA-Z0-9_]+$");
     }
 
     private static boolean isValidPassword(String password, String confirmPassword) {
@@ -18,7 +18,7 @@ public class UserValidator {
     public static boolean validateUser(String login, String password, String confirmPassword) throws WrongLoginException {
         try{
              if(!isValidlogin(login)){ throw new WrongLoginException("Неверный логин");}
-             if(!isValidPassword(password, confirmPassword)){ throw new WrongPasswordException("Неверный логин");}
+             if(!isValidPassword(password, confirmPassword)){ throw new WrongPasswordException("Неверный пароль");}
         } catch (WrongPasswordException | WrongLoginException e) {
             System.err.println("Ошибка: " + e.getMessage());
             return false;
